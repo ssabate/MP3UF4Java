@@ -18,7 +18,7 @@ public class MP3UF4Java {
         // TODO code application logic here
         Bicycle b1=new Bicycle(), b2=new Bicycle();
         
-        Bicycle[] dosBicis={b1, b2};
+        Bicycle[] dosBicis={b1, b2, b2};
         
         System.out.println(dosBicis[0].cadence);
         
